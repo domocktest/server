@@ -15,7 +15,7 @@ const corsOptions = {
     const allowedOrigins = [
       'http://localhost:5173',
       'http://localhost:3000',
-      'https://qa-examnest.vercel.app/', // Replace with your actual frontend domain
+      'https://examnest.vercel.app/', // Replace with your actual frontend domain
       config.cors.frontendUrl
     ];
     
